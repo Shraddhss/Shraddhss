@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shraddhasharmably@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oa5e6HHE9UHXwGjraXrfGgVAFyiKXYPz/edit?usp=drive_link&ouid=111906180337336114075&rtpof=true&sd=true](https://docs.google.com/document/d/1oa5e6HHE9UHXwGjraXrfGgVAFyiKXYPz/edit?usp=drive_link&ouid=111906180337336114075&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1oa5e6HHE9UHXwGjraXrfGgVAFyiKXYPz/edit?usp=sharing&ouid=111906180337336114075&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
