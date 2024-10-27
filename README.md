@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhss&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhss" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **MERN**
 
